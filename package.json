@@ -1,0 +1,20 @@
+{
+  "name": "ble-scan",
+  "version": "0.0.1",
+  "description": "Scan for bluetooth devices and write to SD card",
+  "main": "index.js",
+  "dependencies": {
+    "ble-ble113a": "^0.2.0",
+    "sdcard": "^0.8.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ble",
+    "tessel"
+  ],
+  "author": "kevin@horvatin.net",
+  "license": "ISC"
+}
